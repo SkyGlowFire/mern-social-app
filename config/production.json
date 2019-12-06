@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://SkyGlow:t9hvokqf@cluster0-yzcjk.gcp.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mySecretToken",
+    "githubClientId": "4c14c796c867c87aa08c",
+    "githubSecret":"87a41d59a2d801ecff30a5114933436726432226"
+}
